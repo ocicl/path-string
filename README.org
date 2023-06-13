@@ -1,0 +1,10 @@
+* path-string
+
+String pathname utilities
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/wemeetagain/path-string.git   |
+| commit  | 6ce9b61  |
+| systems | path-string |
+|---------+-------------------------------------------|
+
